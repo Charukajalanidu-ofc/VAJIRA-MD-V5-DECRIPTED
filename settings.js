@@ -8,18 +8,18 @@ function convertToBool(_0x1ca5da, _0x1bcba8 = 'true') {
   return _0x1ca5da === _0x1bcba8 ? true : false
 }
 global.thumb = fs.readFileSync('./lib/bugs/venom.jpg')
-const BOTNAME = 'VAJIRA-MD|-WA-BOT\u2122',
-  FOOTERNAME = '> ＶＡＪＩＲＡ -  ＭＤ - Ｖ4'
-global.owner = process.env.OWNER_NUMBER || '94701992015'
+const BOTNAME = 'ᴋɪɴɢ ꜱʜᴀᴀɴᴀ ᴜꜱᴇʀ ʙᴏᴛ\u2122',
+  FOOTERNAME = '> ᴋɪɴɢ ꜱʜᴀᴀɴᴀ ᴜꜱᴇʀ ʙᴏᴛ ᴠ3'
+global.owner = process.env.OWNER_NUMBER || '94717120796'
 const _0x327eef = {}
-_0x327eef.SESSION_ID = process.env.SESSION_ID || 'youre session id'
+_0x327eef.SESSION_ID = process.env.SESSION_ID || 'VAJIRA-MD=jBUmhQDB#9LxPPTFqbSGwsNGwhg64heBdKAks2ya_uOk9JRO7bX4'
 _0x327eef.travaSend = process.env.TRAVA_SEND || '25'
 _0x327eef.MAX_SIZE =
   process.env.MAX_SIZE === undefined ? '1536' : process.env.MAX_SIZE
-_0x327eef.OWNER_NAME = process.env.OWNER_NAME || 'VAJIRA'
+_0x327eef.OWNER_NAME = process.env.OWNER_NAME || 'ᴋɪɴɢ ꜱʜᴀᴀɴᴀ'
 _0x327eef.COMMAND_TYPE = process.env.COMMAND_TYPE || 'button'
 _0x327eef.LOGO =
-  process.env.LOGO || 'https://telegra.ph/file/ab0ea6ad90e2eb98090d9.jpg'
+  process.env.LOGO || 'https://telegra.ph/file/3ad8f35c650dc1d2f177b.jpg'
 _0x327eef.POSTGRESQL_URL =
   process.env.POSTGRESQL_URL ||
   'postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech'
