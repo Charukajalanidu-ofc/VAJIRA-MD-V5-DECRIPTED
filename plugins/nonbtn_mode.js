@@ -2181,7 +2181,7 @@ if (config.COMMAND_TYPE === "nonbutton") {
           contextInfo: {}
         };
         _0x193b15.contextInfo.externalAdReply = {};
-        _0x193b15.contextInfo.externalAdReply.title = "🧚 MIZUKI MD V2 🧚"ᴀɴ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ";
+        _0x193b15.contextInfo.externalAdReply.title = "🧚 MIZUKI MD V2 🧚";"ᴀɴ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ";
         _0x193b15.contextInfo.externalAdReply.mediaType = 0x1;
         _0x193b15.contextInfo.externalAdReply.sourceUrl = "https://wa.me/94719199757";
         _0x193b15.contextInfo.externalAdReply.thumbnailUrl = "https://telegra.ph/file/ab0ea6ad90e2eb98090d9.jpg";
@@ -3899,7 +3899,7 @@ if (config.COMMAND_TYPE === "nonbutton") {
         contextInfo: {}
       };
       _0x210d84.contextInfo.externalAdReply = {};
-      _0x210d84.contextInfo.externalAdReply.title = "👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ5 👨‍💻";
+      _0x210d84.contextInfo.externalAdReply.title = "🧚 MIZUKI MD V2 🧚";
       _0x210d84.contextInfo.externalAdReply.body = "ᴀɴ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ";
       _0x210d84.contextInfo.externalAdReply.mediaType = 0x1;
       _0x210d84.contextInfo.externalAdReply.sourceUrl = "";
@@ -4001,7 +4001,7 @@ if (config.COMMAND_TYPE === "nonbutton") {
         contextInfo: {}
       };
       _0x5c6069.contextInfo.externalAdReply = {};
-      _0x5c6069.contextInfo.externalAdReply.title = "👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ5 👨‍💻";
+      _0x5c6069.contextInfo.externalAdReply.title = "🧚 MIZUKI MD V2 🧚";
       _0x5c6069.contextInfo.externalAdReply.body = "ᴀɴ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ";
       _0x5c6069.contextInfo.externalAdReply.mediaType = 0x1;
       _0x5c6069.contextInfo.externalAdReply.sourceUrl = "";
@@ -7480,7 +7480,7 @@ if (config.COMMAND_TYPE === "nonbutton") {
         contextInfo: {}
       };
       _0x32f2d9.contextInfo.externalAdReply = {};
-      _0x32f2d9.contextInfo.externalAdReply.title = "👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ5 👨‍💻";
+      _0x32f2d9.contextInfo.externalAdReply.title = "🧚 MIZUKI MD V2 🧚";
       _0x32f2d9.contextInfo.externalAdReply.body = "ᴀɴ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ";
       _0x32f2d9.contextInfo.externalAdReply.mediaType = 0x1;
       _0x32f2d9.contextInfo.externalAdReply.sourceUrl = "";
