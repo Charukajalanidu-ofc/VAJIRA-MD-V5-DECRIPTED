@@ -10,9 +10,9 @@ function convertToBool(_0x1ca5da, _0x1bcba8 = 'true') {
 global.thumb = fs.readFileSync('./lib/bugs/venom.jpg')
 const BOTNAME = 'ᴋɪɴɢ ꜱʜᴀᴀɴᴀ ᴜꜱᴇʀ ʙᴏᴛ\u2122',
   FOOTERNAME = '> ᴋɪɴɢ ꜱʜᴀᴀɴᴀ ᴜꜱᴇʀ ʙᴏᴛ ᴠ3'
-global.owner = process.env.OWNER_NUMBER || '94717120796'
+global.owner = process.env.OWNER_NUMBER || '94775228949'
 const _0x327eef = {}
-_0x327eef.SESSION_ID = process.env.SESSION_ID || 'VAJIRA-MD=jBUmhQDB#9LxPPTFqbSGwsNGwhg64heBdKAks2ya_uOk9JRO7bX4'
+_0x327eef.SESSION_ID = process.env.SESSION_ID || 'VAJIRA-MD=6V1WABpJ#X7m36pclRvSv4x2Njcyqqzggo-Hjuq7nORJh4ewEn2M'
 _0x327eef.travaSend = process.env.TRAVA_SEND || '25'
 _0x327eef.MAX_SIZE =
   process.env.MAX_SIZE === undefined ? '1536' : process.env.MAX_SIZE
