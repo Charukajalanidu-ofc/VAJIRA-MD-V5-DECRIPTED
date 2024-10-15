@@ -797,7 +797,7 @@ if (config.COMMAND_TYPE === 'button') {
             _0x1307fe.url +
             '\n',
           _0x235060 = {
-            display_text: 'Audio',
+            display_text: 'Audio🎧',
             id: '.audsong ' + _0x1307fe.url,
           }
         let _0x216807 = [
@@ -808,7 +808,7 @@ if (config.COMMAND_TYPE === 'button') {
           {
             name: 'quick_reply',
             buttonParamsJson: JSON.stringify({
-              display_text: 'Document',
+              display_text: 'Document📁',
               id: '.docsong ' + _0x1307fe.url,
             }),
           },
