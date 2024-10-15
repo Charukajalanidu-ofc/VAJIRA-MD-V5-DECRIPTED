@@ -57,11 +57,11 @@
         "qrcode-terminal": "^0.12.0",
         "util": "^0.12.4",
         "async-g-i-s": "^1.4.0",
-        "api-dylux": "latest",
+        "api-dylux": "^1.8.5",
         "xfarr-api": "^1.0.2",
         "g-i-s": "^2.1.6",
         "discord-xp": "^1.1.16",  
-        "yt-search": "^2.10.4",
+        "yt-search": "^2.12.1",
         "youtubedl-core": "^4.11.7",
         "ytdl-core": "^4.11.5"
     }
