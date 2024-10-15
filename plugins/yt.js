@@ -538,7 +538,7 @@ if (config.COMMAND_TYPE === 'button') {
               sections: [
                 {
                   title: 'Please select a category',
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: _0x59e013,
                 },
               ],
@@ -551,7 +551,7 @@ if (config.COMMAND_TYPE === 'button') {
               sections: [
                 {
                   title: 'Please select a category',
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: _0x5d7550,
                 },
               ],
