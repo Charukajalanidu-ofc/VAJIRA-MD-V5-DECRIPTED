@@ -1295,7 +1295,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x1f243f(BOTOW)
         }
         const _0x30c49e =
-            '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *VAJIRA MD SETTINGS*',
+            '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *MIZUKI MD SETTINGS*',
           _0x424623 = [],
           _0x414f60 = {
             header: 'WORK_TYPE',
@@ -1458,7 +1458,7 @@ if (config.COMMAND_TYPE === 'button') {
               sections: [
                 {
                   title: 'Please select a category',
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: _0x424623,
                 },
               ],
@@ -1527,7 +1527,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x471f1f(BOTOW)
         }
         const _0x44df93 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ONLY GROUP SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ONLY GROUP SETTINGS*'
         var _0x24ae6b = [
           {
             name: 'single_select',
@@ -1535,7 +1535,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -1615,7 +1615,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x3cc582(BOTOW)
         }
         const _0x3946e8 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *WORK TYPE SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *WORK TYPE SETTINGS*'
         var _0x22b061 = [
           {
             name: 'single_select',
@@ -1623,7 +1623,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -1703,7 +1703,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x2f780a(BOTOW)
         }
         const _0x3b9403 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO VOICE SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO VOICE SETTINGS*'
         var _0x447997 = [
           {
             name: 'single_select',
@@ -1711,7 +1711,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -1791,7 +1791,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x2ac209(BOTOW)
         }
         const _0x234571 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO STICKER SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO STICKER SETTINGS*'
         var _0xd9e902 = [
           {
             name: 'single_select',
@@ -1799,7 +1799,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -1879,7 +1879,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x2d507b(BOTOW)
         }
         const _0x28cf86 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO BIO SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO BIO SETTINGS*'
         var _0x254435 = [
           {
             name: 'single_select',
@@ -1887,7 +1887,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -1967,7 +1967,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x1646f9(BOTOW)
         }
         const _0x52d218 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO STATUS VIEW SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO STATUS VIEW SETTINGS*'
         var _0x428c57 = [
           {
             name: 'single_select',
@@ -1975,7 +1975,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2055,7 +2055,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x58b7fb(BOTOW)
         }
         const _0x22173b =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO TYPING SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO TYPING SETTINGS*'
         var _0x44a20a = [
           {
             name: 'single_select',
@@ -2063,7 +2063,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2143,7 +2143,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x782c21(BOTOW)
         }
         const _0x2ab275 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO RECORDING SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO RECORDING SETTINGS*'
         var _0x5f2bf9 = [
           {
             name: 'single_select',
@@ -2151,7 +2151,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2231,7 +2231,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x711ea2(BOTOW)
         }
         const _0x288fc4 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO READ SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO READ SETTINGS*'
         var _0x473950 = [
           {
             name: 'single_select',
@@ -2239,7 +2239,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKK-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2319,7 +2319,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x1818a5(BOTOW)
         }
         const _0x4a238d =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO REACT SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO REACT SETTINGS*'
         var _0x1beb27 = [
           {
             name: 'single_select',
@@ -2327,7 +2327,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2407,7 +2407,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x482f97(BOTOW)
         }
         const _0x2f63e9 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ALWAYS ONLINE SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2\uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ALWAYS ONLINE SETTINGS*'
         var _0x1f446b = [
           {
             name: 'single_select',
@@ -2415,7 +2415,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2495,7 +2495,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x1549f5(BOTOW)
         }
         const _0x145f64 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *212 BLOCK SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *212 BLOCK SETTINGS*'
         var _0x48ba89 = [
           {
             name: 'single_select',
@@ -2503,7 +2503,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2583,7 +2583,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x4e4d49(BOTOW)
         }
         const _0x53a0de =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO WELCOME SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *AUTO WELCOME SETTINGS*'
         var _0x35b70a = [
           {
             name: 'single_select',
@@ -2591,7 +2591,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2671,7 +2671,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x1a648e(BOTOW)
         }
         const _0xfc377c =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI BOT SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI BOT SETTINGS*'
         var _0xb31c71 = [
           {
             name: 'single_select',
@@ -2679,7 +2679,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2759,7 +2759,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x51c99c(BOTOW)
         }
         const _0x36bbf9 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI LINK SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI LINK SETTINGS*'
         var _0x4b2f83 = [
           {
             name: 'single_select',
@@ -2767,7 +2767,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2847,7 +2847,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x17c575(BOTOW)
         }
         const _0x23f22d =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI BAD SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI BAD SETTINGS*'
         var _0x47d89b = [
           {
             name: 'single_select',
@@ -2855,7 +2855,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -2935,7 +2935,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x27d59b(BOTOW)
         }
         const _0x48fb45 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI CALL SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-ＭＤ-V2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI CALL SETTINGS*'
         var _0x3d08ae = [
           {
             name: 'single_select',
@@ -2943,7 +2943,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
@@ -3023,7 +3023,7 @@ if (config.COMMAND_TYPE === 'button') {
           return await _0x5104b2(BOTOW)
         }
         const _0x58d170 =
-          '[\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI DELETE SETTINGS*'
+          '[\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-ＭＤ-Ｖ2 \uD83D\uDC68‍\uD83D\uDCBB]\n\n  *ANTI DELETE SETTINGS*'
         var _0x38ad40 = [
           {
             name: 'single_select',
@@ -3031,7 +3031,7 @@ if (config.COMMAND_TYPE === 'button') {
               title: 'Tap here!',
               sections: [
                 {
-                  highlight_label: 'VAJIRA-MD',
+                  highlight_label: 'MIZUKI-MD',
                   rows: [
                     {
                       title: 'Enable',
