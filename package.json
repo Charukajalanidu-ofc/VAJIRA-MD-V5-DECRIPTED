@@ -1,12 +1,9 @@
+
 {
-  "name":"VAJIRA-MD-V5-DECRIPTED",
-  "version":"2.1.2",
-  "description":"VAJIRA-MD-V5-DECRIPTED has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "main":"index.js",
-  "scripts":{
-"start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD-V5-DECRIPTED",
-"stop": "pm2 stop VAJIRA-MD-V5-DECRIPTED",
-"restart": "pm2 restart VAJIRA-MD-V5-DECRIPTED"
+"scripts": {
+"start": "pm2 start start.js --deep-monitoring --attach --name wabot",
+"stop": "pm2 stop wabot",
+"restart": "pm2 restart wabot"
 },
 "dependencies": {
         "@whiskeysockets/baileys": "git+https://github.com/VajiraTech/VAJIRA-BAILEYS.git",
