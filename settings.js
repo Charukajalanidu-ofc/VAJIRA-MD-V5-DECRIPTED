@@ -68,7 +68,7 @@ _0x327eef.FOOTERNAME = FOOTERNAME
 _0x327eef.DEVNUMBER = '94701992015'
 _0x327eef.DEVBOT = '94701992015'
 _0x327eef.CHANNEL = ''
-_0x327eef.DOWNLOADSAPI = 'https://prabath-md-api.up.railway.app/'
+_0x327eef.DOWNLOADSAPI = 'https://raw.githubusercontent.com/prabathLK/PUBLIC-URL-HOST-DB/main/public/url.json'
 _0x327eef.DELETEMSGSENDTO =
   process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO
 module.exports = _0x327eef
