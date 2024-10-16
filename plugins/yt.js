@@ -561,7 +561,7 @@ if (config.COMMAND_TYPE === 'button') {
         const _0x2ee389 = {
           image: _0x2c9e17.thumbnail,
           header: '',
-          footer: config.FOOTER,
+          footer: 'ᴍɪᴢᴜᴋɪ ᴍᴅ',
           body: _0x45698e,
         }
         let _0x17d756 = _0x2ee389
@@ -816,7 +816,7 @@ if (config.COMMAND_TYPE === 'button') {
         const _0x2aae2e = {
           image: _0x1307fe.thumbnail,
           header: '',
-          footer: config.FOOTER,
+          footer: 'ᴍɪᴢᴜᴋɪ ᴍᴅ,
           body: _0x2f796a,
         }
         let _0x58b16e = _0x2aae2e
@@ -1357,7 +1357,7 @@ if (config.COMMAND_TYPE === 'button') {
             document: { url: await _0x29f2a7.video['720p'].download() },
             fileName: 'video.mp4',
             mimetype: 'video/mp4',
-            caption: config.FOOTER,
+            caption: '>ᴍᴀᴅᴇ ʙʏ ᴍɪᴢᴜᴋɪ ᴍᴅ,
           },
           _0x3d80a5
         )
