@@ -1357,7 +1357,7 @@ if (config.COMMAND_TYPE === 'button') {
             document: { url: await _0x29f2a7.video['720p'].download() },
             fileName: 'video.mp4',
             mimetype: 'video/mp4',
-            caption: '>ᴍᴀᴅᴇ ʙʏ ᴍɪᴢᴜᴋɪ ᴍᴅ,
+            caption: '>ᴍᴀᴅᴇ ʙʏ ᴍɪᴢᴜᴋɪ ᴍᴅ',
           },
           _0x3d80a5
         )
