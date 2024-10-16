@@ -816,7 +816,7 @@ if (config.COMMAND_TYPE === 'button') {
         const _0x2aae2e = {
           image: _0x1307fe.thumbnail,
           header: '',
-          footer: 'ᴍɪᴢᴜᴋɪ ᴍᴅ,
+          footer: 'ᴍɪᴢᴜᴋɪ ᴍᴅ',
           body: _0x2f796a,
         }
         let _0x58b16e = _0x2aae2e
