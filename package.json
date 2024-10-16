@@ -1,12 +1,12 @@
 {
-  "name":"MIZUKI-MD",
+  "name":"VAJIRA-MD-V5-DECRIPTED",
   "version":"2.1.2",
-  "description":"MIZUKI-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description":"VAJIRA-MD-V5-DECRIPTED has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "main":"index.js",
   "scripts":{
-"start": "pm2 start index.js --deep-monitoring --attach --name MIZUKI MD",
-"stop": "pm2 stop wabot",
-"restart": "pm2 restart wabot"
+"start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD-V5-DECRIPTED",
+"stop": "pm2 stop VAJIRA-MD-V5-DECRIPTED",
+"restart": "pm2 restart VAJIRA-MD-V5-DECRIPTED"
 },
 "dependencies": {
         "@whiskeysockets/baileys": "git+https://github.com/VajiraTech/VAJIRA-BAILEYS.git",
