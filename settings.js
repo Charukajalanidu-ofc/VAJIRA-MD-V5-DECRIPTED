@@ -39,7 +39,7 @@ _0x327eef.AUTO_RECORDING = process.env.AUTO_RECORDING || false
 _0x327eef.AUTO_READ = process.env.AUTO_READ || false
 _0x327eef.AUTO_BIO = process.env.AUTO_BIO || false
 _0x327eef.ALWAYS_ONLINE = process.env.ALWAYS_ONLINE || false
-_0x327eef.WORK_TYPE = process.env.WORK_TYPE || 'public'
+_0x327eef.WORK_TYPE = process.env.WORK_TYPE || 'private'
 _0x327eef.DISABLE_PM = process.env.DISABLE_PM || false
 _0x327eef.ANTI_LINK = process.env.ANTI_LINK || false
 _0x327eef.ANTI_BOT = process.env.ANTI_BOT || false
@@ -68,7 +68,7 @@ _0x327eef.FOOTERNAME = FOOTERNAME
 _0x327eef.DEVNUMBER = '94701992015'
 _0x327eef.DEVBOT = '94701992015'
 _0x327eef.CHANNEL = ''
-_0x327eef.DOWNLOADSAPI = 'https://sachibot-downloads.up.railway.app/'
+_0x327eef.DOWNLOADSAPI = 'https://prabath-md-api.up.railway.app/'
 _0x327eef.DELETEMSGSENDTO =
   process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO
 module.exports = _0x327eef
