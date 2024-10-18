@@ -77,9 +77,9 @@ async function startvajirabot() {
       _0x4ffdda.prefix === 'false' || _0x4ffdda.prefix === 'null'
         ? '^'
         : new RegExp('^[' + _0x4ffdda.PREFIX + ']')
-  const _0x5dc279 = '_VAJIRA RATHNAYAKA_',
+  const _0x5dc279 = '_MIZUKI MD_',
     _0x16f8e6 =
-      '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB'
+      '\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB'
   const _0x1e0692 = require('util'),
     {
       smsg: _0x456e70,
@@ -102,7 +102,7 @@ async function startvajirabot() {
     _0x24655b = require('path'),
     _0x4ca884 = new _0x5de116()
   function _0x48c98c() {
-    const _0x57ddc5 = 'VajiraTech',
+    const _0x57ddc5 = 'MIZUKI MD',
       _0x432d21 = '3EB',
       _0x9eb581 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
     let _0x3b7384 = _0x432d21
@@ -679,7 +679,7 @@ async function startvajirabot() {
                 }
               const _0x211985 = {
                 title:
-                  '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
+                  '\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB',
                 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
                 mediaType: 1,
                 sourceUrl: 'https://wa.me/94719199757',
@@ -794,7 +794,7 @@ async function startvajirabot() {
               }
             const _0x211ab9 = {
               title:
-                '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ5 \uD83D\uDC68‍\uD83D\uDCBB',
+                '\uD83D\uDC68‍\uD83D\uDCBB MIZUKI-MD-V2 \uD83D\uDC68‍\uD83D\uDCBB',
               body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
               mediaType: 1,
               sourceUrl: 'https://wa.me/94719199757',
